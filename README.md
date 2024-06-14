@@ -1,6 +1,6 @@
 ## Hi there 👋
 <details>
-  <span>Hola</span>
+  <summary>Test</summary>
 </details>
 <!--
 **josegonzales22/josegonzales22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
